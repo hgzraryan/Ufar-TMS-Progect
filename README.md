@@ -1,1 +1,3 @@
-TERMINAL MANAGEMENT SYSTEM PROGECT
+Վիրտուալ տերմինալների կառավարման համակարգի նախագծում և պատրաստում
+
+Տեխնոլոգիաներ։ mysql,nodejs,react
