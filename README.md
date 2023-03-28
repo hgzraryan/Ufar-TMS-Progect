@@ -80,13 +80,16 @@ Use the `BLANK_README.md` to get started.
 
 
 
-### Built With
+### Նախագծի կառուցվածքը
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Նախագիծը իրենից ներկայացնում է ավտոմատ կառավարման համակարգ վիրտուալ պոս տերմինալների սպասարկման համար։
+Նախագիծը բաղկացած է 3 մասից, "Front", "API Gateway", "DB".
 
-* [![React][React.js]][React-url]
-* [![Csharp][Csharp.com]][Csharp-url]
-* [![MySql][MySql.com]][MySql-url]
+
+
+* Ֆրոնտային մասը [![React][React.js]][React-url]
+* Ապի գետվեյ [![Csharp][Csharp.com]][Csharp-url]
+* Տվյալների բաա [![MySql][MySql.com]][MySql-url]
 
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
