@@ -82,7 +82,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![React][React.js]][React-url]
 * [![MySql][MySql.com]][MySql-url]
-* [![C#][CSHARP.com]][C#-url]
+* [![Csharp][Csharp.com]][Csharp-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -240,5 +240,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [MySql.com]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [MySql-url]: https://MySql.com 
 
-[C#.com]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
-[C#-url]: https://csharp.com 
+[Csharp.com]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
+[Csharp-url]: https://csharp.com 
