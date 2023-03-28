@@ -51,7 +51,7 @@
     <li><a href="#contributing">Contributing</a></li>
 	-->
     <li><a href="#license">Լիցենզիա</a></li>
-    <li><a href="#contact">Կոնտակտներ</a></li>
+    <li><a href="#contact">Նախագծի թիմը</a></li>
 	<!--
     <li><a href="#acknowledgments">Acknowledgments</a></li>
 	––>
@@ -76,7 +76,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 Use the `BLANK_README.md` to get started.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">երադառնալ սկիզբ</a>)</p>
 
 
 
@@ -94,6 +94,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 <!-- GETTING STARTED -->
+<!--
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -127,9 +128,10 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
-
+-->
 
 <!-- USAGE EXAMPLES -->
+<!--
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -137,10 +139,11 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
-
+-->
 
 
 <!-- ROADMAP -->
+<!--
 ## Roadmap
 
 - [x] Add Changelog
@@ -154,10 +157,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
-
+-->
 
 
 <!-- CONTRIBUTING -->
+<!--
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -173,29 +177,44 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
-
+-->
 
 <!-- LICENSE -->
-## License
+## Լիցենզիա
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Տարածված է MIT լիցենզիայի ներքո: Լրացուցիչ տեղեկությունների համար տե՛ս «LICENSE.txt»:
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
 
 <!-- CONTACT -->
-## Contact
+### Նախագծի թիմը
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+<br>
+–––––Ֆռոնտենդ––––<br>
+Ինեսա Մովսեսյան<br>
+Արևիկ Նավասարդյան<br>
+Հմայակ Մխիթարյան <br>
+––––––Բեքենդ–––––<br>
+Ռազմիկ Արշակյան<br>
+Հարություն Նավասարդյան<br>
+Էդուարդ Վարդանյան<br>
+––Տվյալների բազա––<br>
+Մարիամ Պողոսյան<br>
+Մարիամ Ղանդիլյան<br>
+Սիլվա Օհանյան<br>
+––––Թեստավորում–––<br>
+Արիս Նանյան<br>
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Նախագծի հղումը: [https://github.com/hgzraryan/Ufar-TMS-Progect/](https://github.com/hgzraryan/Ufar-TMS-Progect/)
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
+<!--
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
@@ -211,7 +230,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
-
+-->
 
 
 
