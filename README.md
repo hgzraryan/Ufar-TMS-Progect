@@ -86,7 +86,7 @@ Use the `BLANK_README.md` to get started.
 
 Նախագիծը իրենից ներկայացնում է ավտոմատ կառավարման համակարգ վիրտուալ պոս տերմինալների սպասարկման համար։
 Նախագիծը բաղկացած է 3 մասից, "Front", "API Gateway", "DB".
-Տվյալների բազայի կառուցվածքի համար նաել <a hrer="DATABASE (PGDATA) .vsdx">DATABASE(PGDATA).vsdx</a> ֆայլը
+Տվյալների բազայի կառուցվածքի համար նաել [https://github.com/hgzraryan/Ufar-TMS-Progect/DATABASE(PGDATA).vsdx](DATABASE(PGDATA).vsdx) ֆայլը
 
 
 * Ֆրոնտային մասը [![React][React.js]][React-url]
@@ -228,7 +228,8 @@ Don't forget to give the project a star! Thanks again!
 	<li>Արիս Նանյան</li>
 </ul>
 </p>
-<br></br>
+</br></br>
+
 Նախագծի հղումը: [https://github.com/hgzraryan/Ufar-TMS-Progect/](https://github.com/hgzraryan/Ufar-TMS-Progect/)
 
 
