@@ -86,7 +86,7 @@ Use the `BLANK_README.md` to get started.
 
 Նախագիծը իրենից ներկայացնում է ավտոմատ կառավարման համակարգ վիրտուալ պոս տերմինալների սպասարկման համար։
 Նախագիծը բաղկացած է 3 մասից, "Front", "API Gateway", "DB".
-
+Տվյալների բազայի կառուցվածքի համար նաել <a hrer="DATABASE (PGDATA) .vsdx">DATABASE(PGDATA).vsdx</a> ֆայլը
 
 
 * Ֆրոնտային մասը [![React][React.js]][React-url]
