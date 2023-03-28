@@ -65,6 +65,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+<!--
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
 Here's why:
@@ -75,6 +76,7 @@ Here's why:
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 Use the `BLANK_README.md` to get started.
+-->
 
 <p align="right">(<a href="#readme-top">երադառնալ սկիզբ</a>)</p>
 
@@ -196,29 +198,32 @@ Don't forget to give the project a star! Thanks again!
 
 <br>
 * Ֆրոնտային մասը [![React][React.js]][React-url]
-
-<p>Ինեսա Մովսեսյան</p>
-<p>Արևիկ Նավասարդյան</p>
-<p>Հմայակ Մխիթարյան</p>
-
+<ul>
+	<li>Ինեսա Մովսեսյան</li>
+	<li>Արևիկ Նավասարդյան</li>
+	<li>Հմայակ Մխիթարյան</li>
+</ul>
 <br>
 * Ապի գետվեյ [![Csharp][Csharp.com]][Csharp-url]
-
-<p>Ռազմիկ Արշակյան</p>
-<p>Հարություն Նավասարդյան</p>
-<p>Էդուարդ Վարդանյան</p>
-
+<ul>
+	<li>Ռազմիկ Արշակյան</li>
+	<li>Հարություն Նավասարդյան</li>
+	<li>Էդուարդ Վարդանյան</li>
+</ul>
 <br>
 * Տվյալների բազա [![MySql][MySql.com]][MySql-url]
 
-<p>Մարիամ Պողոսյան</p>
-<p>Մարիամ Ղանդիլյան</p>
-<p>Սիլվա Օհանյան</p>
+<ul>
+	<li>Մարիամ Պողոսյան</li>
+	<li>Մարիամ Ղանդիլյան</li>
+	<li>Սիլվա Օհանյան</li>
+</ul>
 <br>
 
 * Թեստավորում [![selenium][selenium.com]][selenium-url]
-<p>Արիս Նանյան</p>
-
+<ul>
+	<li>Արիս Նանյան</li>
+</ul>
 Նախագծի հղումը: [https://github.com/hgzraryan/Ufar-TMS-Progect/](https://github.com/hgzraryan/Ufar-TMS-Progect/)
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
@@ -274,8 +279,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 [product-screenshot]: images/progect-plan.jpg
+
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+
 [MySql.com]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [MySql-url]: https://MySql.com 
 
