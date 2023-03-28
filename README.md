@@ -242,7 +242,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-[product-screenshot]: images/progect-desc.png
+[product-screenshot]: images/progect-plan.jpg
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [MySql.com]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
