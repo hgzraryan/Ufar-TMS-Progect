@@ -89,7 +89,7 @@ Use the `BLANK_README.md` to get started.
 
 * Ֆրոնտային մասը [![React][React.js]][React-url]
 * Ապի գետվեյ [![Csharp][Csharp.com]][Csharp-url]
-* Տվյալների բաա [![MySql][MySql.com]][MySql-url]
+* Տվյալների բազա [![MySql][MySql.com]][MySql-url]
 
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
@@ -192,23 +192,32 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- CONTACT -->
-### Նախագծի թիմը
+## Նախագծի թիմը
 
 <br>
-–––––Ֆռոնտենդ––––<br>
-Ինեսա Մովսեսյան<br>
-Արևիկ Նավասարդյան<br>
-Հմայակ Մխիթարյան <br>
-––––––Բեքենդ–––––<br>
-Ռազմիկ Արշակյան<br>
-Հարություն Նավասարդյան<br>
-Էդուարդ Վարդանյան<br>
-––Տվյալների բազա––<br>
-Մարիամ Պողոսյան<br>
-Մարիամ Ղանդիլյան<br>
-Սիլվա Օհանյան<br>
-––––Թեստավորում–––<br>
-Արիս Նանյան<br>
+* Ֆրոնտային մասը [![React][React.js]][React-url]
+
+<p>Ինեսա Մովսեսյան</p>
+<p>Արևիկ Նավասարդյան</p>
+<p>Հմայակ Մխիթարյան</p>
+
+<br>
+* Ապի գետվեյ [![Csharp][Csharp.com]][Csharp-url]
+
+<p>Ռազմիկ Արշակյան</p>
+<p>Հարություն Նավասարդյան</p>
+<p>Էդուարդ Վարդանյան</p>
+
+<br>
+* Տվյալների բազա [![MySql][MySql.com]][MySql-url]
+
+<p>Մարիամ Պողոսյան</p>
+<p>Մարիամ Ղանդիլյան</p>
+<p>Սիլվա Օհանյան</p>
+<br>
+
+* Թեստավորում [![selenium][selenium.com]][selenium-url]
+<p>Արիս Նանյան</p>
 
 Նախագծի հղումը: [https://github.com/hgzraryan/Ufar-TMS-Progect/](https://github.com/hgzraryan/Ufar-TMS-Progect/)
 
@@ -272,3 +281,9 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [Csharp.com]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
 [Csharp-url]: https://csharp.com 
+
+
+[selenium.com]: https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white
+[selenium-url]: https://selenium.com 
+
+
