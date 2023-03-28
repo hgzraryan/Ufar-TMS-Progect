@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Աջակցողներ][contributors-shield]][contributors-url]
+[![Պատառաքաղներ][forks-shield]][forks-url]
+[![Աստղադիտողներ][stars-shield]][stars-url]
+[![[Խնդիրներ][issues-shield]][issues-url]
+[![MIT Լիցենզիա][license-shield]][license-url]
 
 
 
@@ -81,10 +81,11 @@ Use the `BLANK_README.md` to get started.
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![React][React.js]][React-url]
-* [![MySql][MySql.com]][MySql-url]
 * [![Csharp][Csharp.com]][Csharp-url]
+* [![MySql][MySql.com]][MySql-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
 
@@ -120,7 +121,7 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
 
@@ -131,7 +132,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
 
@@ -148,7 +149,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
 
@@ -166,7 +167,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
 
@@ -175,7 +176,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
 
@@ -186,7 +187,7 @@ Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.c
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
 
@@ -204,7 +205,10 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
+
+
+
 
 
 
@@ -230,7 +234,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/hgzraryan/Ufar-TMS-Progect/LICENSE.txt
+[license-url]: https://github.com/hgzraryan/Ufar-TMS-Progect/blob/main/LICENSE.txt
 
 
 
