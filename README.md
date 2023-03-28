@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
-[![Աջակցողներ][contributors-shield]][contributors-url]
-[![Պատառաքաղներ][forks-shield]][forks-url]
-[![Աստղադիտողներ][stars-shield]][stars-url]
-[![[Խնդիրներ][issues-shield]][issues-url]
-[![MIT Լիցենզիա][license-shield]][license-url]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 
 
@@ -35,9 +35,10 @@
     <li>
       <a href="#about-the-project">Նախագծի մասին</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Նախագծի կառուցվածքը</a></li>
       </ul>
     </li>
+	<!--
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -48,9 +49,12 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+	-->
+    <li><a href="#license">Լիցենզիա</a></li>
+    <li><a href="#contact">Կոնտակտներ</a></li>
+	<!--
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+	––>
   </ol>
 </details>
 
@@ -238,7 +242,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/progect-desc.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [MySql.com]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
