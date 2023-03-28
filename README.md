@@ -33,9 +33,9 @@
   <summary>Բովանդակություն</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Նախագծի մասին</a>
+      <a href="#Նախագծի մասին">Նախագծի մասին</a>
       <ul>
-        <li><a href="#built-with">Նախագծի կառուցվածքը</a></li>
+        <li><a href="#Նախագծի կառուցվածքը">Նախագծի կառուցվածքը</a></li>
       </ul>
     </li>
 	<!--
@@ -50,8 +50,8 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
 	-->
-    <li><a href="#license">Լիցենզիա</a></li>
-    <li><a href="#contact">Նախագծի թիմը</a></li>
+    <li><a href="#Լիցենզիա">Լիցենզիա</a></li>
+    <li><a href="#Նախագծի թիմը">Նախագծի թիմը</a></li>
 	<!--
     <li><a href="#acknowledgments">Acknowledgments</a></li>
 	––>
