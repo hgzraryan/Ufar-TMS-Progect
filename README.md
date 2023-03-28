@@ -196,35 +196,41 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Նախագծի թիմը
 
-<br>
-* Ֆրոնտային մասը [![React][React.js]][React-url]
+<p>
+Ֆրոնտային մասը [![React][React.js]][React-url]
 <ul>
 	<li>Ինեսա Մովսեսյան</li>
 	<li>Արևիկ Նավասարդյան</li>
 	<li>Հմայակ Մխիթարյան</li>
 </ul>
-<br>
-* Ապի գետվեյ [![Csharp][Csharp.com]][Csharp-url]
+</p>
+<p>
+Ապի գետվեյ [![Csharp][Csharp.com]][Csharp-url]
 <ul>
 	<li>Ռազմիկ Արշակյան</li>
 	<li>Հարություն Նավասարդյան</li>
 	<li>Էդուարդ Վարդանյան</li>
 </ul>
-<br>
-* Տվյալների բազա [![MySql][MySql.com]][MySql-url]
+</p>
+<p>
+Տվյալների բազա [![MySql][MySql.com]][MySql-url]
 
 <ul>
 	<li>Մարիամ Պողոսյան</li>
 	<li>Մարիամ Ղանդիլյան</li>
 	<li>Սիլվա Օհանյան</li>
 </ul>
-<br>
-
-* Թեստավորում [![selenium][selenium.com]][selenium-url]
+</p>
+<p>
+Թեստավորում [![selenium][selenium.com]][selenium-url]
 <ul>
 	<li>Արիս Նանյան</li>
 </ul>
+</p>
+<br></br>
 Նախագծի հղումը: [https://github.com/hgzraryan/Ufar-TMS-Progect/](https://github.com/hgzraryan/Ufar-TMS-Progect/)
+
+
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
