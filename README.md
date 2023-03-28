@@ -90,9 +90,9 @@ Use the `BLANK_README.md` to get started.
 
 
 * Ֆրոնտային մասը [![React][React.js]][React-url]
-* Ապի գետվեյ [![Csharp][Csharp.com]][Csharp-url]
+* Ապի գեթվեյ [![Csharp][Csharp.com]][Csharp-url]
 * Տվյալների բազա [![MySql][MySql.com]][MySql-url]
-
+* Թեստավորում [![selenium][selenium.com]][selenium-url]
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
@@ -197,7 +197,8 @@ Don't forget to give the project a star! Thanks again!
 ## Նախագծի թիմը
 
 <p>
-Ֆրոնտային մասը * [![React][React.js]][React-url]
+
+* Ֆրոնտային մասը [![React][React.js]][React-url]
 <ul>
 	<li>Ինեսա Մովսեսյան</li>
 	<li>Արևիկ Նավասարդյան</li>
@@ -205,7 +206,7 @@ Don't forget to give the project a star! Thanks again!
 </ul>
 </p>
 <p>
-Ապի գետվեյ * [![Csharp][Csharp.com]][Csharp-url]
+* Ապի գեթվեյ [![Csharp][Csharp.com]][Csharp-url]
 <ul>
 	<li>Ռազմիկ Արշակյան</li>
 	<li>Հարություն Նավասարդյան</li>
@@ -213,7 +214,7 @@ Don't forget to give the project a star! Thanks again!
 </ul>
 </p>
 <p>
-Տվյալների բազա * [![MySql][MySql.com]][MySql-url]
+* Տվյալների բազա [![MySql][MySql.com]][MySql-url]
 
 <ul>
 	<li>Մարիամ Պողոսյան</li>
@@ -222,7 +223,7 @@ Don't forget to give the project a star! Thanks again!
 </ul>
 </p>
 <p>
-Թեստավորում * [![selenium][selenium.com]][selenium-url]
+* Թեստավորում [![selenium][selenium.com]][selenium-url]
 <ul>
 	<li>Արիս Նանյան</li>
 </ul>
