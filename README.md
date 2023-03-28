@@ -198,7 +198,7 @@ Don't forget to give the project a star! Thanks again!
 
 <p>
 
-* Ֆրոնտային մասը [![React][React.js]][React-url]
+<b>Ֆրոնտային մասը</b>
 <ul>
 	<li>Ինեսա Մովսեսյան</li>
 	<li>Արևիկ Նավասարդյան</li>
@@ -206,7 +206,7 @@ Don't forget to give the project a star! Thanks again!
 </ul>
 </p>
 <p>
-* Ապի գեթվեյ [![Csharp][Csharp.com]][Csharp-url]
+<b>Ապի գեթվեյ</b>
 <ul>
 	<li>Ռազմիկ Արշակյան</li>
 	<li>Հարություն Նավասարդյան</li>
@@ -214,7 +214,7 @@ Don't forget to give the project a star! Thanks again!
 </ul>
 </p>
 <p>
-* Տվյալների բազա [![MySql][MySql.com]][MySql-url]
+<b>Տվյալների բազա<b>
 
 <ul>
 	<li>Մարիամ Պողոսյան</li>
@@ -223,7 +223,7 @@ Don't forget to give the project a star! Thanks again!
 </ul>
 </p>
 <p>
-* Թեստավորում [![selenium][selenium.com]][selenium-url]
+<b>Թեստավորում</b>
 <ul>
 	<li>Արիս Նանյան</li>
 </ul>
