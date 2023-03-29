@@ -102,7 +102,7 @@ Use the `BLANK_README.md` to get started.
 </br>
 
 <p id="progect_test_platform"></p>
-##Նախագծի թեստային միջավայր
+## Նախագծի թեստային միջավայր
 
 *Հասցե: 161.35.193.18</br>
 *Միացման տեսակ։ SSH</br>
