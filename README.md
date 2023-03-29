@@ -36,6 +36,7 @@
       <a href="#about_progect">Նախագծի մասին</a>
       <ul>
         <li><a href="#progect_structure">Նախագծի կառուցվածքը</a></li>
+        <li><a href="#progect_test_platform">Նախագծի թեստային միջավայր</a></li>
         <li><a href="#progect_plan">Նախագծի փուլերը</a></li>
       </ul>
     </li>
@@ -51,8 +52,8 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
 	-->
-    <li><a href="#Լիցենզիա">Լիցենզիա</a></li>
-    <li><a href="#Նախագծի թիմը">Նախագծի թիմը</a></li>
+    <li><a href="#license">Լիցենզիա</a></li>
+    <li><a href="#progect_team">Նախագծի թիմը</a></li>
 	<!--
     <li><a href="#acknowledgments">Acknowledgments</a></li>
 	––>
@@ -98,6 +99,17 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
+</br>
+
+<p id="progect_test_platform"></p>
+##Նախագծի թեստային միջավայր
+
+*Հասցե: 161.35.193.18</br>
+*Միացման տեսակ։ SSH</br>
+*Նույնականացման մեխանիզմ։ Certificate authentification</br>
+*Բաց և փակ բանալիներ։ [https://github.com/hgzraryan/Ufar-TMS-Progect/blob/main/keys.zip](keys.zip) ֆայլը</br>
+*<u>Գաղտնաբառերը կուղարկվի տելեգրամ ալիքի միջոցով</u>
+</br></br>
 
 <p id="progect_plan"></p>
 ## Նախագծի փուլերը
@@ -202,6 +214,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 -->
+<p id="license"></p>
 
 <!-- LICENSE -->
 ## Լիցենզիա
@@ -211,7 +224,7 @@ Don't forget to give the project a star! Thanks again!
 <p align="right">(<a href="#readme-top">Վերադառնալ սկիզբ</a>)</p>
 
 
-
+<p id="progect_team"></p>
 <!-- CONTACT -->
 ## Նախագծի թիմը
 
