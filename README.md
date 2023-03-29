@@ -112,6 +112,7 @@ Use the `BLANK_README.md` to get started.
 </br></br>
 
 <p id="progect_plan"></p>
+
 ## Նախագծի փուլերը
 
 ### Սպրինտ1 (տևողություն 2 շաբաթ)
