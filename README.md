@@ -84,6 +84,7 @@ Use the `BLANK_README.md` to get started.
 
 
 <p id="progect_structure"></p>
+
 ### Նախագծի կառուցվածքը
 
 
@@ -102,6 +103,7 @@ Use the `BLANK_README.md` to get started.
 </br>
 
 <p id="progect_test_platform"></p>
+
 ## Նախագծի թեստային միջավայր
 
 *Հասցե: 161.35.193.18</br>
