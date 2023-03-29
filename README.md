@@ -33,9 +33,10 @@
   <summary>Բովանդակություն</summary>
   <ol>
     <li>
-      <a href="#Նախագծի մասին">Նախագծի մասին</a>
+      <a href="#about_progect">Նախագծի մասին</a>
       <ul>
-        <li><a href="#Նախագծի կառուցվածքը">Նախագծի կառուցվածքը</a></li>
+        <li><a href="#progect_structure">Նախագծի կառուցվածքը</a></li>
+        <li><a href="#progect_plan">Նախագծի փուլերը</a></li>
       </ul>
     </li>
 	<!--
@@ -62,7 +63,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Նախագծի մասին
-
+<p id="about_progect"></p>
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 <!--
@@ -78,11 +79,12 @@ Of course, no one template will serve all projects since your needs may be diffe
 Use the `BLANK_README.md` to get started.
 -->
 
-<p align="right">(<a href="#readme-top">երադառնալ սկիզբ</a>)</p>
+<p align="right">(<a href="#readme-top">վերադառնալ սկիզբ</a>)</p>
 
 
 
 ### Նախագծի կառուցվածքը
+<p id="progect_structure"></p>
 
 Նախագիծը իրենից ներկայացնում է ավտոմատ կառավարման համակարգ վիրտուալ պոս տերմինալների սպասարկման համար։
 Նախագիծը բաղկացած է 3 մասից, "Front", "API Gateway", "DB".
@@ -100,8 +102,8 @@ Use the `BLANK_README.md` to get started.
 
 ## Նախագծի փուլերը
 
-###Սպրինտ1
-
+### Սպրինտ1
+<p id="progect_plan"></p>
 1. "Տվյալների բազաների" թիմի կողմից իրականացնել բազայի կառուցվածքի ստեղծումը։ </br>
 2. "Ֆրոնտային մաս" թիմի կողմից անհրաժեշտ է ստեղծել նախնական նույնականացման էջ, որի օգնությամբ հնարավոր կլինի կատարել նույնականացում OAUTH2 տեխնոլոգիայով։</br>
 3. "Ապի գեթվեյ" թիմի կողմից անհրաժեշտ է պատրաստել գեթվեյ, որը կունենա 3 endpoint (login, register, unregister)։</br>
