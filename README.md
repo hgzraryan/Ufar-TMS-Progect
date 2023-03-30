@@ -125,6 +125,27 @@ Use the `BLANK_README.md` to get started.
 4. "Թեստավորում" թիմի կողմից անհրաժեշտ է իրականացնել ֆունկցիոնալի ստուգում և լոադ թեստ։</br>
 </br></br>
 
+***<b>Request</b>
+<xmp>
+{
+	"username": "Jignesh", 
+	"password": "password"
+}
+</xmp>
+
+
+
+
+***<b>Response</b>
+<xmp>
+{    
+    "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKaWduZXNoIFRyaXZlZGkiLCJlbWFpbCI6InRlc3QuYnRlc3RAZ21haWwuY29tIiwiRGF0ZU9mSm9pbmciOiIwMDAxLTAxLTAxIiwianRpIjoiYzJkNTZjNzQtZTc3Yy00ZmUxLTgyYzAtMzlhYjhmNzFmYzUzIiwiZXhwIjoxNTMyMzU2NjY5LCJpc3MiOiJUZXN0LmNvbSIsImF1ZCI6IlRlc3QuY29tIn0.8hwQ3H9V8mdNYrFZSjbCpWSyR1CNyDYHcGf6GqqCGnY"    
+}
+</xmp>
+
+
+
+
 <!--
 ### Սպրինտ2 (տևողություն 3 շաբաթ)
 
