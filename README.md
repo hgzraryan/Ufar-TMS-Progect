@@ -123,8 +123,6 @@ Use the `BLANK_README.md` to get started.
 2. "Ֆրոնտային մաս" թիմի կողմից անհրաժեշտ է ստեղծել նախնական նույնականացման էջ, որի օգնությամբ հնարավոր կլինի կատարել նույնականացում OAUTH2 [https://oauth.net/2/] կամ JWT [https://www.c-sharpcorner.com/article/jwt-json-web-token-authentication-in-asp-net-core/] տեխնոլոգիայով։</br>
 3. "Ապի գեթվեյ" թիմի կողմից անհրաժեշտ է պատրաստել գեթվեյ, որը կունենա 3 endpoint (login, register, unregister)։</br>
 4. "Թեստավորում" թիմի կողմից անհրաժեշտ է իրականացնել ֆունկցիոնալի ստուգում և լոադ թեստ։</br>
-</br></br>
-
 
 ### JWT մեթոդով հարցման և պատասխանի օրինակ
 </br>
