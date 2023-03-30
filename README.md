@@ -126,14 +126,14 @@ Use the `BLANK_README.md` to get started.
 </br></br>
 
 
-### Հարցման և պատասխանի օրինակ
+### JWT մեթոդով հարցման և պատասխանի օրինակ
 </br>
 ***<b>Request</b>***
 {</br>
 &nbsp;&nbsp;&nbsp;"username": "Jignesh", </br>
 &nbsp;&nbsp;&nbsp;"password": "password"</br>
 }</br>
-***<b>Response</b>
+***<b>Response</b>ՐՐՐ
 
 {</br>
 &nbsp;&nbsp;&nbsp;"token" :</br> &nbsp;&nbsp;&nbsp;"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKaWduZXNoIFRyaXZlZGkiLCJlbWFpbCI6InRlc3QuYnRlc3RAZ21haWwuY29tIiwiRGF0ZU9mSm9pbmciOiIwMDAxLTAxLTAxIiwianRpIjoiYzJkNTZjNzQtZTc3Yy00ZmUxLTgyYzAtMzlhYjhmNzFmYzUzIiwiZXhwIjoxNTMyMzU2NjY5LCJpc3MiOiJUZXN0LmNvbSIsImF1ZCI6IlRlc3QuY29tIn0.8hwQ3H9V8mdNYrFZSjbCpWSyR1CNyDYHcGf6GqqCGnY"</br>
