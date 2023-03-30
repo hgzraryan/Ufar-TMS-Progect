@@ -88,10 +88,10 @@ Use the `BLANK_README.md` to get started.
 ### Նախագծի կառուցվածքը
 
 
-Նախագիծը իրենից ներկայացնում է ավտոմատ կառավարման համակարգ վիրտուալ պոս տերմինալների սպասարկման համար։
-Նախագիծը բաղկացած է 3 մասից, "Front", "API Gateway", "DB".
-Տվյալների բազայի կառուցվածքի համար նաել [https://github.com/hgzraryan/Ufar-TMS-Progect/blob/main/DATABASE%E2%80%93PGDATA.vsdx](DATABASE–PGDATA.vsdx) ֆայլը
-
+Նախագիծը իրենից ներկայացնում է ավտոմատ կառավարման համակարգ վիրտուալ պոս տերմինալների սպասարկման համար։</br>
+Նախագիծը բաղկացած է 3 մասից, "Front", "API Gateway", "DB".</br>
+Տվյալների բազայի կառուցվածքի համար նաել [https://github.com/hgzraryan/Ufar-TMS-Progect/blob/main/DATABASE%E2%80%93PGDATA.vsdx](DATABASE–PGDATA.vsdx) ֆայլը </br>
+Օգատատերերի կառավարման համար կիրառել AAA (Authentication, Authorization, Accounting) մեթոդը:</br>
 
 * Ֆրոնտային մասը [![React][React.js]][React-url]
 * Ապի գեթվեյ [![Csharp][Csharp.com]][Csharp-url]
