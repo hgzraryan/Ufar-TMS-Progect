@@ -113,6 +113,11 @@ Use the `BLANK_README.md` to get started.
 *<u>Գաղտնաբառերը կուղարկվի տելեգրամ ալիքի միջոցով</u>
 </br></br>
 
+*Թեստային միջավայրին միանալու համար անհրաժեշտ է բեռնել [https://github.com/hgzraryan/Ufar-TMS-Progect/blob/main/keys.zip](keys.zip)և [https://github.com/hgzraryan/Ufar-TMS-Progect/blob/main/SSH-tools.zip](SSH-tools.zip) ֆայլերը, տեղադրել համակարգչում անհրաժեշտ ծրագրերը, այնուհետև վերբեռնել փակ բանալին։
+Հավելյալ տեղեկատվության համար գնալ հետևյալ ղումով [https://www.youtube.com/watch?v=-_xyKYPi8Aw]
+
+
+
 <p id="progect_plan"></p>
 
 ## Նախագծի փուլերը
