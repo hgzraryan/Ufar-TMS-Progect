@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import axios from 'axios';
+import inecologo from './logo.png';
 
 export const Login = (props) => {
     const [username, setUsername] = useState('');
@@ -9,7 +10,7 @@ export const Login = (props) => {
         e.preventDefault();
         try {
             const res = await axios.post('/api/Basic/Login', {
-                userName, password: pass
+                username, password: pass
             });
             const { token, refreshToken } = res.data;
             localStorage.setItem('jwtToken', token);
@@ -23,8 +24,8 @@ export const Login = (props) => {
     return (
         <div className="content-handler">
             <div id="h1-handler">
-                <img src="logo.png" alt="logo" id="logo" />
-                <h1>Welcome To Ineco</h1>
+                <img src={ inecologo} alt="logo" id="logo" />
+                <h1>Welcome To Inecobank</h1>
             </div>
             
             <h2>Login</h2>

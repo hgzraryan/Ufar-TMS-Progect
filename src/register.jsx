@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
+import inecologo from './logo.png';
 
 export const Register = (props) => {
     const [pass, setPass] = useState('');
@@ -7,7 +8,7 @@ export const Register = (props) => {
     const [lastName, setLastName] = useState('');
     const [username, setUsername] = useState('');
     const [email, setEmail] = useState('');
-    const [merchantId, setMerchantId] = useState('');
+    const [merchant_Id, setMerchantId] = useState('');
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -30,7 +31,11 @@ export const Register = (props) => {
     }
     return (
         <div className="content-handler">
-            <h1>Welcome to Ineco</h1>
+            <div id="h1-handler">
+                <img src={inecologo} alt="logo" id="logo" />
+                <h1>Welcome to Inecobank</h1>
+            </div>
+
             <h2>Sign up</h2>
             <form className="register-from" onSubmit={handleSubmit}>
                 <div className="form-handler">
@@ -55,7 +60,7 @@ export const Register = (props) => {
 
                 <div className="form-handler">
                     <label className="title" htmlFor="Merchant ID">Merchant ID</label>
-                    <input value={merchantId} type="number" placeholder="Merchant ID" id="merchantId" name="merchantId" onChange={(e) => setMerchantId(e.target.value)} />
+                    <input value={merchant_Id} type="number" placeholder="Merchant ID" id="merchant_Id" name="merchantId" onChange={(e) => setMerchantId(e.target.value)} />
                 </div>
 
                 <div className="form-handler">
