@@ -1,0 +1,84 @@
+.App {
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    min-width:auto;
+    align-items: center;
+    justify-content: center;
+    color:white;
+    background-image: linear-gradient( 75deg, #34eb67, #145727, #7eed98 );
+}
+.title {
+    justify-content: center;
+    text-align:justify;
+    display: flex;
+    flex-direction: row;
+}
+.login-form, .register-form {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.form-handler {
+    padding: 8px 8px 8px 8px;
+    flex-direction: row;
+    /*align-items: center;*/
+}
+.button-handler {
+    padding: 8px 8px 8px 8px;
+}
+@media screen and (min-width 600px) {
+}
+.auth-form-container {
+    height:1000px;
+    width:1000px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 0.5rem
+}
+
+/*label {
+    text-align: left;
+    padding: 0.25rem 0;
+}*/
+input {
+    /*margin: 0.5rem 0;*/
+    padding: 1rem;
+    border: none;
+    border-radius: 10px;
+    margin: 5px 5px 5px 5px;
+    align-content:flex-start;
+}
+
+button {
+    border: none;
+    background-color: #8eedb6;
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    margin: 8px 8px 8px 8px;
+}
+
+.link-btn {
+    background-color: none;
+    color: seagreen;
+    text-decoration: underline;
+}
+
+.content-handler {
+    align-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    width:600px;
+    /*opacity:70%;*/
+}
+
+/*.h1-handler{
+    display:flex;
+    justify-content:center;
+}*/
+h1 {
+    margin-left:7px;
+    display:inline-block;
+}
